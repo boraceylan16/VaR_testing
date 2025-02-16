@@ -16,7 +16,7 @@ This project focuses on **Value-at-Risk (VaR)** analysis of crude oil futures (*
 ### 📉 Value-at-Risk (VaR) Calculation
 - **Historical VaR:** Uses past return distributions to estimate risk.
 - **Parametric VaR (Variance-Covariance Method):** Assumes normal distribution and calculates risk using mean and standard deviation.
-- **Monte Carlo Simulation:** Generates random price paths based on statistical properties to estimate risk exposure.
+- **Monte Carlo Simulation:** Generates random returns based on observed data to estimate risk exposure.
 
 ### 📊 Visualization
 - Plots the probability density of daily returns using `seaborn`.
