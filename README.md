@@ -31,10 +31,7 @@ print(f"95% VaR: {var_95:.4f}")
 ## 📌 Why This Matters?
 VaR is a crucial risk management tool used by financial institutions and traders to quantify potential losses. This project provides a comprehensive approach to risk assessment using multiple VaR techniques.
 
-## 💡 Next Steps
-- Extending this to Expected Shortfall (Conditional VaR) and stress testing.
 
-## 📍 Check out the full code on GitHub!
 
 
 
